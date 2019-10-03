@@ -1,0 +1,33 @@
+(From Bruno)
+
+Run Python REPL in Flask Shell (run from top level git project directory, same as README.md):
+- Windows:  
+set FLASK_APP=twitoff:APP
+python -m flask shell
+
+- Unix/Mac
+FLASK_APP=twitoff:APP flask shell
+
+To run the Flask App - Same steps as above but replace 'shell' with 'run' 
+
+To add users to the database:
+- Go to Python REPL following the commands above.
+- Execute the following commands:
+from twitoff.models import *
+DB                   # confirm location
+DB.create_all()      # only need to run one time to create tables
+
+Optional: If you'd like you can open the table in DB Browser to confirm the Users and Tweet tables have been properly created. Make sure to close DB Browser before you add users!
+
+u1 = User(id=1, username='austen')
+t1 = Tweet(id=1, text='Lambda School Rocks!')
+
+# Only need to do this for new entities, not to edit existing users/tweets
+DB.session.add(u1)
+DB.session.add(t1)
+DB.session.commit()
+
+# To Query the database from the flask shell REPL
+User.query.all()
+User.query.all()[0].username
+Tweets.query.all()[0].text
