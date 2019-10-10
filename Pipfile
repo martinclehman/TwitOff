@@ -15,6 +15,7 @@ python-decouple = "*"
 jupyter = "*"
 scikit-learn = "*"
 numpy = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.7"

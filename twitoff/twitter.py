@@ -3,7 +3,7 @@ import tweepy
 from decouple import config
 from .models import DB, Tweets, User
 
-TWITTER_USERS = ['elonmusk', 'nasa', 'sadserver', 'austen', 'lockheedmartin']
+TWITTER_USERS = ['elonmusk', 'nasa', 'lockheedmartin', 'bigdata', 'buzzfeed', 'kdnuggets', 'google', 'garyvee', 'theeconomist', 'funnyordie']
 
 TWITTER_AUTH = tweepy.OAuthHandler(config('TWITTER_CONSUMER_KEY'),
                                    config('TWITTER_CONSUMER_SECRET'))
@@ -58,7 +58,7 @@ def add_or_update_user(username):
 
 # Watch out - if you input a single 'user' it will look up each letter thinking its a list
 # of users. So, in shell, you should do add_users(['elonmusk']) to use correctly.
-def add_users(users=TWITTER_USERS):
+def add_default_users(users=TWITTER_USERS):
     """
     Add/update a list of users (strings of user names).
     May take awhile, so run "offline" (flask shell).
