@@ -16,6 +16,9 @@ jupyter = "*"
 scikit-learn = "*"
 numpy = "*"
 gunicorn = "*"
+psycopg2 = "*"
+pyscopg2 = "*"
+psycopg2-binary = "*"
 
 [requires]
 python_version = "3.7"
