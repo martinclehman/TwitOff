@@ -15,7 +15,7 @@ load_dotenv()
 def create_app():
     """Create and configure an instance of the Flask application"""
     app = Flask(__name__)
-    app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:////home/martin/Documents/MyGitHub/DS-Unit-3-Sprint-3-Productization-and-Cloud/TwitOff/twitoff/db.sqlite3'
+    app.config['SQLALCHEMY_DATABASE_URI'] = config('DATABASE_URL')
     DB.init_app(app)
 
     @app.route('/')
