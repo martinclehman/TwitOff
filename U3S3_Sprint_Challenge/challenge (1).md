@@ -38,9 +38,9 @@
     <meta property="og:image" content="https://avatars0.githubusercontent.com/u/24780114?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="LambdaSchool/DS-Material" /><meta property="og:url" content="https://github.com/LambdaSchool/DS-Material" /><meta property="og:description" content="Typeset slides and other material for DS lectures. Contribute to LambdaSchool/DS-Material development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzMzNTUzNjcyOjNhY2I3ZmE3OTVmZjg3MTUxY2JkZGE3MGMzYmY0ODQ0ZDkwMDY0ODhlNThkMmZlNzM5NmEwOTE1NjkxZjRhM2M=--35e6addea24f976f95db6d2f4f34f278779767eb">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzMzNTUzNjcyOjYzMWZkYzY4OTUzNTExZjg3NDBiZWIyYWVjZjMyZjQzYmU4ZTI1NmYxNGI2YjIxYTQxNWMzNDRlZGVjYzllY2U=--9141d8dcd6191615f2dfc00686376e6937126713">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="D294:52FE:5495F6:9B8373:5DA1F888" data-pjax-transient>
+  <meta name="request-id" content="D365:2F41:589FA1:A5F0E3:5DA1FD67" data-pjax-transient>
 
 
   
@@ -51,7 +51,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D294:52FE:5495F6:9B8373:5DA1F888" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="7893314279931375614" /><meta name="octolytics-actor-id" content="43918008" /><meta name="octolytics-actor-login" content="kovacova" /><meta name="octolytics-actor-hash" content="c6ed9651266a5a506e7510334a74c83f91bc2bc94a40cd35c90ae6af3b564f83" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D365:2F41:589FA1:A5F0E3:5DA1FD67" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="7893314279931375614" /><meta name="octolytics-actor-id" content="43918008" /><meta name="octolytics-actor-login" content="kovacova" /><meta name="octolytics-actor-hash" content="c6ed9651266a5a506e7510334a74c83f91bc2bc94a40cd35c90ae6af3b564f83" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -70,7 +70,7 @@
     <meta name="user-login" content="kovacova">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="NzNkNTI3OTAxMTUxYzRkMjQ3ZGI5MDg4ZDY3YjE3NmM4OWIzNDZjNGZkN2ZjMDBiMzQxNjliMzJiMDg1NTAxMXx7InJlbW90ZV9hZGRyZXNzIjoiOTYuNTQuMTg0LjE0OCIsInJlcXVlc3RfaWQiOiJEMjk0OjUyRkU6NTQ5NUY2OjlCODM3Mzo1REExRjg4OCIsInRpbWVzdGFtcCI6MTU3MDg5NjAyMiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="MGRkYzcwMTY1ZTA0OWRlNjA4MTZmMDYyMWI3YTI1ZTIxNjY4OTA4ZjIxMGM2MDM5ZTAzOTUwNDEwZjk5MTMwZXx7InJlbW90ZV9hZGRyZXNzIjoiOTYuNTQuMTg0LjE0OCIsInJlcXVlc3RfaWQiOiJEMzY1OjJGNDE6NTg5RkExOkE1RjBFMzo1REExRkQ2NyIsInRpbWVzdGFtcCI6MTU3MDg5NzI3MiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="ACTIONS_V2_ON_MARKETPLACE,MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,NOTIFY_ON_BLOCK,RELATED_ISSUES,GHE_CLOUD_TRIAL">
 
@@ -79,7 +79,7 @@
   <meta http-equiv="x-pjax-version" content="7e05677253b966926fbe772704275233">
   
 
-      <link href="https://github.com/LambdaSchool/DS-Material/commits/master.atom?token=AKPCFOF3PUGATWF5OQKEFNN3V44SK" rel="alternate" title="Recent Commits to DS-Material:master" type="application/atom+xml">
+      <link href="https://github.com/LambdaSchool/DS-Material/commits/master.atom?token=AKPCFOG7B56HGBXBGDL47QV3V47AQ" rel="alternate" title="Recent Commits to DS-Material:master" type="application/atom+xml">
 
   <meta name="go-import" content="github.com/LambdaSchool/DS-Material git https://github.com/LambdaSchool/DS-Material.git">
 
@@ -160,7 +160,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=5E1NRxNsEb3lBe1bZDAu03VzX4tBQYk5iTkTiXd734YZm2RNlwehFffdoRAJPg+B+y8jxtsEQsWqAnrqT0qQIg=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=VxvuNoag2PDlOQyvcP4jICT2CfzHoOmMSbxIz+khYLWqzcc8AstoWPfhQOQd8AJyqqp1sV3lInBqhyGs0RAvEQ=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -313,7 +313,7 @@
       <img class="avatar" height="20" width="20" alt="@kovacova" src="https://avatars3.githubusercontent.com/u/43918008?s=60&amp;v=4" />
       kovacova
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="VOmrRS5ErtuyeMniqU0fs/GPbNO27WAn9YkpRHAzlTo7FJXVKrVijiD6wD5+Lnp7HqIbw6Wzu1DcgO3Frx3ZoA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="BJEijZAAaCxcQf9U28bNGQYbjCENZqJlTiOEyBScrH1rbBwdlPGkec7D9ogMpajR6Tb7MR44eRJnKkBJy7Lg5w==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -404,7 +404,7 @@
   " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
     <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit "
-      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:24780114,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:43918008,&quot;client_id&quot;:&quot;1837805444.1540616190&quot;,&quot;originating_request_id&quot;:&quot;D294:52FE:5495F6:9B8373:5DA1F888&quot;,&quot;originating_url&quot;:&quot;https://github.com/LambdaSchool/DS-Material/blob/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge/challenge.md&quot;,&quot;referrer&quot;:&quot;https://github.com/LambdaSchool/DS-Material/tree/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge&quot;}}" data-hydro-click-hmac="48d63f0493504894d09d8a6102f2f1e12527c735989490059742d8687dbbd364">
+      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:24780114,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:43918008,&quot;client_id&quot;:&quot;1837805444.1540616190&quot;,&quot;originating_request_id&quot;:&quot;D365:2F41:589FA1:A5F0E3:5DA1FD67&quot;,&quot;originating_url&quot;:&quot;https://github.com/LambdaSchool/DS-Material/blob/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge/challenge.md&quot;,&quot;referrer&quot;:&quot;https://github.com/LambdaSchool/DS-Material/tree/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge&quot;}}" data-hydro-click-hmac="dbd522367aacefeb7f316c3581d4bb1389dc3d9062793a215f24cc33462a3eb7">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-block v-align-middle
@@ -431,7 +431,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="KgIneorScGuSvreYEGnBrermG2Y0J7eUD1RiK0uwZTcVoeBlofUBbtyBYeSnYoLphDcRXf0PlkJmv0iFqm37aQ==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="iKyzSzhFxTHMCSwvfCfCMus61jk8IPa9svxsWkoaobm3D3RUE2K0NII2+lPLLIF2hevcAvUI12vbF0b0q8c/5w==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -551,17 +551,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-10-12T09:30:22-07:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-10-12T09:51:12-07:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-10-12T10:00:22-07:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-10-12T10:21:12-07:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-10-12T13:00:22-07:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-10-12T13:21:12-07:00">
             in 4 hours
           </button>
         </li>
@@ -613,7 +613,7 @@
     <div role="none" class="dropdown-divider"></div>
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="39OEJeu/+nzOB1S0d5YCkFgP9RRaKFbFRiFZcXn1QAqwLrq17042KVyFXWig9WdYtyKCBEl2jbJvKJ3wptsMkA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="c4fqvXdUbPj99eAkHx5eXrCHO0aEs49qs2H7GfRv5jgcetQtc6WgrW936fjIfTuWX6pMVpftVB2aaD+YK0Gqog==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
@@ -667,10 +667,10 @@
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="+btAjUY0cgZN0n5MKAotN4o8WpuzVrgg3vcfYc8J5JuYeaUeuT1AIIOUJZHLk6y4iUlzoqXQuLizfmsx0t3J7Q==" />      <input type="hidden" name="repository_id" value="148510385">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Imv5bGK1R63yDbDA0HqWZdBJJkqFf8vwJKMY6ajEms1DqRz/nbx1izxL6x0z4xfq0zwPc5P5y2hJKmy5tRC3uw==" />      <input type="hidden" name="repository_id" value="148510385">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:148510385,&quot;client_id&quot;:&quot;1837805444.1540616190&quot;,&quot;originating_request_id&quot;:&quot;D294:52FE:5495F6:9B8373:5DA1F888&quot;,&quot;originating_url&quot;:&quot;https://github.com/LambdaSchool/DS-Material/blob/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge/challenge.md&quot;,&quot;referrer&quot;:&quot;https://github.com/LambdaSchool/DS-Material/tree/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge&quot;,&quot;user_id&quot;:43918008}}" data-hydro-click-hmac="ac01c851e2456c094f1f28c795f1a36bf29ddba6dccc6f9f635342322b4a976f" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:148510385,&quot;client_id&quot;:&quot;1837805444.1540616190&quot;,&quot;originating_request_id&quot;:&quot;D365:2F41:589FA1:A5F0E3:5DA1FD67&quot;,&quot;originating_url&quot;:&quot;https://github.com/LambdaSchool/DS-Material/blob/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge/challenge.md&quot;,&quot;referrer&quot;:&quot;https://github.com/LambdaSchool/DS-Material/tree/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge&quot;,&quot;user_id&quot;:43918008}}" data-hydro-click-hmac="116045b61c154a8a3fe18f89623a7cbdc5dfc0288db3c5f4892a93fb7d7bf4b5" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Watch
           </span>
@@ -741,18 +741,18 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/LambdaSchool/DS-Material/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="RSDJl7BLv63PC/YfQeOPoMuB8CB3h4ftKsIJsSg2WfP2oIiRphwy1Naaui0OcrHw4nyQ8m/NL8Y6LkyQ+Oy58Q==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/LambdaSchool/DS-Material/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="JtVP9FUnY5BgMLNcYrOzZv9ascwHdYNLgVc1QSCHd9WVVQ7yQ3Du6Xmh/24tIo021qfRHh8/K2CRu3Bg8F2X1w==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar LambdaSchool/DS-Material" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:148510385,&quot;client_id&quot;:&quot;1837805444.1540616190&quot;,&quot;originating_request_id&quot;:&quot;D294:52FE:5495F6:9B8373:5DA1F888&quot;,&quot;originating_url&quot;:&quot;https://github.com/LambdaSchool/DS-Material/blob/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge/challenge.md&quot;,&quot;referrer&quot;:&quot;https://github.com/LambdaSchool/DS-Material/tree/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge&quot;,&quot;user_id&quot;:43918008}}" data-hydro-click-hmac="c747c178d2d0bd4c3860c132115505a30370c5df3635db6d5ed4702234a232d4" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar LambdaSchool/DS-Material" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:148510385,&quot;client_id&quot;:&quot;1837805444.1540616190&quot;,&quot;originating_request_id&quot;:&quot;D365:2F41:589FA1:A5F0E3:5DA1FD67&quot;,&quot;originating_url&quot;:&quot;https://github.com/LambdaSchool/DS-Material/blob/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge/challenge.md&quot;,&quot;referrer&quot;:&quot;https://github.com/LambdaSchool/DS-Material/tree/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge&quot;,&quot;user_id&quot;:43918008}}" data-hydro-click-hmac="72749a102f404a8b7bbca246df49b5c266a8eb80ef5d56db84503c41623692bd" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
 </button>        <a class="social-count js-social-count" href="/LambdaSchool/DS-Material/stargazers"
            aria-label="1 user starred this repository">
            1
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/LambdaSchool/DS-Material/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="IRVgDFp02D+UTqPRaJ/eQMnfzTVGYBsMd0+ayYrp31Qm8FjXoWGBeMcJKaGSb86AYQ8ZgX+VwB4SWVyRTtph2g==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/LambdaSchool/DS-Material/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="2bkvl6VEVj5nu5LF9toYD8rHYSNzQFk3OtQGl75DcADeXBdMXlEPeTT8GLUMKgjPYhe1l0q1giVfwsDPenDOjg==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star LambdaSchool/DS-Material" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:148510385,&quot;client_id&quot;:&quot;1837805444.1540616190&quot;,&quot;originating_request_id&quot;:&quot;D294:52FE:5495F6:9B8373:5DA1F888&quot;,&quot;originating_url&quot;:&quot;https://github.com/LambdaSchool/DS-Material/blob/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge/challenge.md&quot;,&quot;referrer&quot;:&quot;https://github.com/LambdaSchool/DS-Material/tree/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge&quot;,&quot;user_id&quot;:43918008}}" data-hydro-click-hmac="a87003d5ecfd66bed4ab43c58797bb030e13e105a9a46c0a65b6bbe50410d8e6" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star LambdaSchool/DS-Material" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:148510385,&quot;client_id&quot;:&quot;1837805444.1540616190&quot;,&quot;originating_request_id&quot;:&quot;D365:2F41:589FA1:A5F0E3:5DA1FD67&quot;,&quot;originating_url&quot;:&quot;https://github.com/LambdaSchool/DS-Material/blob/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge/challenge.md&quot;,&quot;referrer&quot;:&quot;https://github.com/LambdaSchool/DS-Material/tree/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge&quot;,&quot;user_id&quot;:43918008}}" data-hydro-click-hmac="9dd31ced8244924000b5eeffb6ea2baea0dae01f2d47bf93b0627cb249280407" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
 </button>        <a class="social-count js-social-count" href="/LambdaSchool/DS-Material/stargazers"
            aria-label="1 user starred this repository">
@@ -764,7 +764,7 @@
 
   <li>
           <details class="details-reset details-overlay details-overlay-dark d-inline-block float-left">
-            <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:148510385,&quot;client_id&quot;:&quot;1837805444.1540616190&quot;,&quot;originating_request_id&quot;:&quot;D294:52FE:5495F6:9B8373:5DA1F888&quot;,&quot;originating_url&quot;:&quot;https://github.com/LambdaSchool/DS-Material/blob/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge/challenge.md&quot;,&quot;referrer&quot;:&quot;https://github.com/LambdaSchool/DS-Material/tree/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge&quot;,&quot;user_id&quot;:43918008}}" data-hydro-click-hmac="e4a4d70627c318af068f3852905fb4bd25237c02496767eaa0cfa7529a35b1b6" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" title="Fork your own copy of LambdaSchool/DS-Material to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+            <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:148510385,&quot;client_id&quot;:&quot;1837805444.1540616190&quot;,&quot;originating_request_id&quot;:&quot;D365:2F41:589FA1:A5F0E3:5DA1FD67&quot;,&quot;originating_url&quot;:&quot;https://github.com/LambdaSchool/DS-Material/blob/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge/challenge.md&quot;,&quot;referrer&quot;:&quot;https://github.com/LambdaSchool/DS-Material/tree/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge&quot;,&quot;user_id&quot;:43918008}}" data-hydro-click-hmac="af67d2b9e463efc4d74e46686068c1df868e2f64ac98f03445b9a173158a6f5f" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" title="Fork your own copy of LambdaSchool/DS-Material to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
               Fork
 </summary>            <details-dialog
               class="anim-fade-in fast Box Box--overlay d-flex flex-column"
@@ -1054,13 +1054,13 @@
                 <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
             </a>
 
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/LambdaSchool/DS-Material/edit/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge/challenge.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="VAXOIwRf2NBMEHo5ALeTOw3kA7zDj/kOnpYptPeqQaAFPuA7EibUPkXQwpqcWRJ9tehDV3UH8NoUzAd99uPXYw==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/LambdaSchool/DS-Material/edit/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge/challenge.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="eWjc0UiL9t4HjRZe8J5lROjeZM65yLY5Xyr469PoBBQoU/LJXvL6MA5Nrv1scOQCUNIkJQ9Av+3VcNYi0qGS1w==" />
               <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
                 aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
                 <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
               </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/LambdaSchool/DS-Material/delete/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge/challenge.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="tZ4zFiCxEKal39ucKg60HXi8KPOhN4CcInj/LoXlxrsiqf8PHmGcdSsJ0N39t3oW7UzXMCftuHOC/7E40+tY3w==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/LambdaSchool/DS-Material/delete/master/unit3-data-engineering/sprint4-productization-and-cloud/sprint-challenge/challenge.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="5E8vPABW00BwSlS9/ui1eplY7ZOcVMX05/e2Q3YPT3xzeOMlPoZfk/6cX/wpUXtxDKgSUBqO/RtHcPhVIAHRGA==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1326,7 +1326,7 @@ relates to health.</p>
 <div class="footer container-lg width-full p-responsive" role="contentinfo">
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.62157s from unicorn-56bfbbd8c-fzckv">GitHub</span>, Inc.</li>
+      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.41339s from unicorn-689c5cdc45-8wnkf">GitHub</span>, Inc.</li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
